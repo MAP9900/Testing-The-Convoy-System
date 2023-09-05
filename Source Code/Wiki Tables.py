@@ -5,6 +5,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+#Still Needs Work, Not Part of Convoy Project Yet
+
 
 url_1 = 'https://en.wikipedia.org/wiki/United_States_home_front_during_World_War_II' #Us War Time Labor Force
 #Sources: Bureau of the Census, Historical Statistics of the United States (1976) Chapter D, Labor, Series D 29-41 (Table 1)
@@ -44,5 +46,4 @@ ax2 = plt.subplot(2,2,3, sharey=ax1)
 plt.plot(labor_df_2['Year'], labor_df_1['Total labor force'], '-o', label='Total Labor Force')
 plt.plot(labor_df_2['Year'], labor_df_2['Armed Forces'], '-o', label='Armed Forces')
 plt.title
-
 plt.show()
