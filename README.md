@@ -13,4 +13,6 @@ OUTLINE OF ALL FILES:
 7. Visual Range & Area Comparison.py -- Calculates average sighting distance and total visual area and plots both
 8. Visualization of 50-1, 2-25 , 5-10.py Plots a visual of the various convoy types
 9. Visualization of Convoy (1-50).py -- Plots a visual of one convoy in the North Atlantic
-10. Wiki Tables.py -- Web scrapes tables from Wikipedia. Not currently used in the project write up. 
+10. Wiki Tables.py -- Web scrapes tables from Wikipedia. Not currently used in the project write up.
+
+Graphs Folder contains all the graphs made from the source code.
