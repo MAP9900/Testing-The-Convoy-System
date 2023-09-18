@@ -2,7 +2,7 @@
 Description:
 A project based around using data science and WWII era equations to demonstrate the effectiveness of the convoy system. 
 
-OUTLINE OF ALL FILES:
+OUTLINE OF ALL SOURCE CODE FILES:
 
 1. Convoy sightings.py -- calculates the effect of sonar on ship contacts and the probability of hits and subsequently sinkings. Only hit and sinking probabilities are used in the write up of the project currently. 
 2. Real Life Data.py -- Reads in tables web scrapped from 'U-Boat Web Scrape.py' and plots data from http://www.ibiblio.org/hyperwar/USN/rep/ASW-51/ASW-10.html
