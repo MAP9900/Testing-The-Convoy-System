@@ -2,6 +2,8 @@
 Description:
 A project based around using data science and WWII era equations to demonstrate the effectiveness of the convoy system. 
 
+Medium Article: https://medium.com/@matthewplambeck99/the-convoy-system-of-wwii-a-look-into-its-effectiveness-through-data-science-6674b02227b5 
+
 OUTLINE OF ALL SOURCE CODE FILES:
 
 1. Convoy sightings.py -- calculates the effect of sonar on ship contacts and the probability of hits and subsequently sinkings. Only hit and sinking probabilities are used in the write up of the project currently. 
